@@ -1,0 +1,34 @@
+# Generated data and figures — all reproducible from the scripts (see README).
+results/data/
+results/figures/
+
+# Heavy generated / downloaded artifacts in the full-source sub-project.
+experiments/full_source/data/
+experiments/full_source/encoder/checkpoints/
+experiments/full_source/encoder/embeddings/
+experiments/full_source/tokenizer/artifacts/
+experiments/full_source/analysis/*.json
+
+# External Mathlib checkout, if placed inside the repo.
+mathlib4/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+
+# Model / tensor artifacts (in case they land outside results/data/)
+*.pt
+*.pth
+*.npz
+*.npy
+*.parquet
+*.ckpt
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+*.swp

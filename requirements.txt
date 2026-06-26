@@ -1,0 +1,22 @@
+# Python 3.12+ recommended. Versions pinned to those used for the paper.
+# Install with:  python -m venv venv && venv/bin/pip install -r requirements.txt
+
+# --- core numerics / ML ---
+numpy==2.4.4
+scipy==1.17.1
+scikit-learn==1.8.0
+pandas==3.0.2
+statsmodels==0.14.6          # mixed-effects regression (App F.4)
+POT==0.9.5                   # optimal transport: EMD + sliced Wasserstein
+
+# --- deep learning (proof / statement / full-source encoders) ---
+torch==2.11.0
+transformers==5.5.4          # ReProver byT5 tactic generator (operational)
+tokenizers==0.22.2           # BPE vocab for the full-source encoder
+huggingface_hub==1.11.0
+safetensors==0.7.0
+
+# --- io / plotting ---
+matplotlib==3.10.8
+pyarrow==21.0.0              # full_source proof corpus is stored as parquet
+tqdm==4.67.3

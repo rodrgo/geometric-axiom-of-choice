@@ -1,0 +1,252 @@
+name,bucket,is_classical,depth,proof_length,file_path
+SimpleGraph.isClique_map_finset_iff_of_nontrivial,depth 3-4,1,4,10,Mathlib/Combinatorics/SimpleGraph/Clique.lean
+Real.Angle.toReal_nonneg_iff_sign_nonneg,depth 3-4,1,3,2,Mathlib/Analysis/SpecialFunctions/Trigonometric/Angle.lean
+IsPrimitiveRoot.card_primitiveRoots,depth 3-4,1,3,17,Mathlib/RingTheory/RootsOfUnity/PrimitiveRoots.lean
+ContMDiffWithinAt.finsum_section_of_locallyFinite,depth 3-4,1,3,10,Mathlib/Geometry/Manifold/VectorBundle/SmoothSection.lean
+CategoryTheory.ShortComplex.quasiIso_opMap_iff,depth 3-4,1,3,8,Mathlib/Algebra/Homology/ShortComplex/QuasiIso.lean
+NumberField.mixedEmbedding.convexBodySum_mem,depth 3-4,1,3,2,Mathlib/NumberTheory/NumberField/CanonicalEmbedding/ConvexBody.lean
+NumberField.discr_eq_discr_of_algEquiv,depth 3-4,1,4,8,Mathlib/NumberTheory/NumberField/Discriminant/Defs.lean
+MeasureTheory.tendsto_of_forall_isClosed_limsup_le_nat,depth 3-4,1,4,9,Mathlib/MeasureTheory/Measure/Portmanteau.lean
+MeasureTheory.indicatorConstLp_univ,depth 3-4,1,4,2,Mathlib/MeasureTheory/Function/LpSpace/Indicator.lean
+cfc_commute_cfc,depth 3-4,1,3,5,Mathlib/Analysis/CStarAlgebra/ContinuousFunctionalCalculus/Unital.lean
+Complex.Gammaℝ_one_sub_mul_Gammaℝ_one_add,depth 3-4,1,4,7,Mathlib/Analysis/SpecialFunctions/Gamma/Deligne.lean
+Polynomial.IsDistinguishedAt.map_ne_zero_of_eq_mul,depth 3-4,1,4,4,Mathlib/RingTheory/Polynomial/Eisenstein/Distinguished.lean
+Polynomial.resultant_mul_right,depth 3-4,1,3,18,Mathlib/RingTheory/Polynomial/Resultant/Basic.lean
+ContinuousMap.toNNReal_add_add_neg_add_neg_eq,depth 3-4,1,3,3,Mathlib/Analysis/CStarAlgebra/ContinuousFunctionalCalculus/Unique.lean
+Polynomial.reverse_natDegree_le,depth 3-4,1,3,4,Mathlib/Algebra/Polynomial/Reverse.lean
+Orientation.angle_eq_abs_oangle_toReal,depth 3-4,1,4,7,Mathlib/Geometry/Euclidean/Angle/Oriented/Basic.lean
+QuaternionAlgebra.rank_eq_four,depth 3-4,1,3,2,Mathlib/Algebra/Quaternion.lean
+AlgebraicGeometry.map_injective_of_isIntegral,depth 3-4,1,4,9,Mathlib/AlgebraicGeometry/Properties.lean
+IsSymmSndFDerivAt.isSymmSndFDerivWithinAt,depth 3-4,1,4,2,Mathlib/Analysis/Calculus/FDeriv/Symmetric.lean
+PowerSeries.le_order,depth 3-4,1,3,5,Mathlib/RingTheory/PowerSeries/Order.lean
+SimpleGraph.linearIndependent_lapMatrix_ker_basis_aux,depth 3-4,1,4,13,Mathlib/Combinatorics/SimpleGraph/LapMatrix.lean
+CategoryTheory.Limits.preservesColimitsOfShape_of_equiv,depth 3-4,1,3,5,Mathlib/CategoryTheory/Limits/Preserves/Basic.lean
+MeasureTheory.lpMeasToLpTrimLie_symm_toLp,depth 3-4,1,3,3,Mathlib/MeasureTheory/Function/ConditionalExpectation/AEMeasurable.lean
+Algebra.algebraMap_intNorm,depth 3-4,1,4,6,Mathlib/RingTheory/IntegralClosure/IntegralRestrict.lean
+finprod_curry₃,depth 3-4,1,4,5,Mathlib/Algebra/BigOperators/Finprod.lean
+RCLike.nonUnitalContinuousFunctionalCalculus,depth 3-4,1,3,18,Mathlib/Analysis/CStarAlgebra/ContinuousFunctionalCalculus/Instances.lean
+Directed.extend_bot,depth 3-4,1,3,10,Mathlib/Order/Directed.lean
+sub_mem_posTangentConeAt_of_openSegment_subset,depth 3-4,1,4,6,Mathlib/Analysis/Calculus/TangentCone/Real.lean
+continuousOn_boolIndicator_iff_isClopen,depth 3-4,1,3,2,Mathlib/Topology/Clopen.lean
+Manifold.metrizableSpace,depth 3-4,1,4,5,Mathlib/Geometry/Manifold/Metrizable.lean
+Finsupp.some_single_none,depth 3-4,1,3,2,Mathlib/Data/Finsupp/Option.lean
+MeasureTheory.lintegral_enorm_le_of_forall_fin_meas_integral_eq,depth 3-4,1,4,3,Mathlib/MeasureTheory/Function/ConditionalExpectation/Unique.lean
+LinearPMap.closure_inverse_graph,depth 3-4,1,3,9,Mathlib/Topology/Algebra/Module/LinearPMap.lean
+ZMod.orderOf_one_add_four_mul,depth 3-4,1,4,3,Mathlib/RingTheory/ZMod/UnitsCyclic.lean
+dvd_antisymm,depth 3-4,1,4,3,Mathlib/Algebra/GroupWithZero/Divisibility.lean
+EulerSine.antideriv_sin_comp_const_mul,depth 3-4,1,3,7,Mathlib/Analysis/SpecialFunctions/Trigonometric/EulerSineProd.lean
+Finsupp.mulHom_ext,depth 3-4,1,4,4,Mathlib/Data/Finsupp/Ext.lean
+MeasureTheory.VectorMeasure.isSigmaSubadditiveSetFun_enorm,depth 3-4,1,4,3,Mathlib/MeasureTheory/VectorMeasure/Variation/Defs.lean
+EuclideanGeometry.dist_inversion_inversion,depth 3-4,1,4,3,Mathlib/Geometry/Euclidean/Inversion/Basic.lean
+ProbabilityTheory.Kernel.comapRight_compProd_id_prod,depth 3-4,1,3,8,Mathlib/Probability/Kernel/Composition/CompProd.lean
+MeasureTheory.contDiffOn_convolution_right_with_param_aux,depth 3-4,1,3,27,Mathlib/Analysis/Calculus/ContDiff/Convolution.lean
+PowerSeries.WithPiTopology.hasSum_iff_hasSum_coeff,depth 3-4,1,4,2,Mathlib/RingTheory/PowerSeries/PiTopology.lean
+PowerSeries.exists_coeff_ne_zero_iff_ne_zero,depth 3-4,1,4,2,Mathlib/RingTheory/PowerSeries/Order.lean
+Metric.equicontinuousAt_of_continuity_modulus,depth 3-4,1,3,3,Mathlib/Topology/MetricSpace/Equicontinuity.lean
+SSet.N.dim_lt_of_lt,depth 3-4,1,4,10,Mathlib/AlgebraicTopology/SimplicialSet/NonDegenerateSimplices.lean
+Equiv.Perm.isMultiplyPretransitive_of_nontrivial,depth 3-4,1,3,30,Mathlib/GroupTheory/GroupAction/Jordan.lean
+Real.rpow_logb_eq_abs,depth 3-4,1,3,6,Mathlib/Analysis/SpecialFunctions/Log/Base.lean
+TopologicalSpace.complete_completelyPseudoMetrizableMetric,depth 3-4,1,4,2,Mathlib/Topology/Metrizable/CompletelyMetrizable.lean
+Cardinal.eq_of_add_eq_of_aleph0_le,depth 3-4,1,3,7,Mathlib/SetTheory/Cardinal/Arithmetic.lean
+Polynomial.Chebyshev.sumNodes_le_sumNodes_T,depth 3-4,1,4,4,Mathlib/Analysis/SpecialFunctions/Trigonometric/Chebyshev/Extremal.lean
+HomologicalComplex.homotopyCofiber.ext_from_X,depth 3-4,1,3,6,Mathlib/Algebra/Homology/HomotopyCofiber.lean
+CategoryTheory.Abelian.Ext.covariant_sequence_exact₃,depth 3-4,1,4,3,Mathlib/Algebra/Homology/DerivedCategory/Ext/ExactSequences.lean
+Set.disjoint_ordT5Nhd,depth 3-4,1,4,27,Mathlib/Order/Interval/Set/OrdConnectedComponent.lean
+CategoryTheory.lift_comp_preservesLimitIso_hom,depth 3-4,1,4,2,Mathlib/CategoryTheory/Limits/Preserves/Limits.lean
+isMIntegralCurveOn_comp_mul_ne_zero,depth 3-4,1,4,6,Mathlib/Geometry/Manifold/IntegralCurve/Transform.lean
+CategoryTheory.LocalizerMorphism.hasPointwiseRightDerivedFunctor_iff_of_isRightDerivabilityStructure,depth 2,1,2,7,Mathlib/CategoryTheory/Localization/DerivabilityStructure/PointwiseRightDerived.lean
+AffineBasis.ext_elem,depth 2,1,2,3,Mathlib/LinearAlgebra/AffineSpace/Basis.lean
+UniqueFactorizationMonoid.dvd_of_mem_normalizedFactors,depth 2,1,2,4,Mathlib/RingTheory/UniqueFactorizationDomain/NormalizedFactors.lean
+Polynomial.natDegree_eq_reverse_natDegree_add_natTrailingDegree,depth 2,1,2,11,Mathlib/Algebra/Polynomial/Reverse.lean
+MeasureTheory.SimpleFunc.map_restrict_of_zero,depth 2,1,2,2,Mathlib/MeasureTheory/Function/SimpleFunc.lean
+Module.Invertible.finrank_eq_one,depth 2,1,2,3,Mathlib/RingTheory/PicardGroup.lean
+DirichletCharacter.card_eq_totient_of_hasEnoughRootsOfUnity,depth 2,1,2,2,Mathlib/NumberTheory/DirichletCharacter/Orthogonality.lean
+SimpleGraph.Walk.exists_boundary_dart,depth 2,1,2,6,Mathlib/Combinatorics/SimpleGraph/Walks/Basic.lean
+Orthonormal.inner_left_sum,depth 2,1,2,2,Mathlib/Analysis/InnerProductSpace/Orthonormal.lean
+QuadraticAlgebra.norm_eq_zero_iff_eq_zero,depth 2,1,2,12,Mathlib/Algebra/QuadraticAlgebra/Basic.lean
+MvPolynomial.degreeOf_mul_X_self,depth 2,1,2,6,Mathlib/Algebra/MvPolynomial/Degrees.lean
+RootPairing.Base.exists_root_eq_sum_nat_or_neg,depth 2,1,2,17,Mathlib/LinearAlgebra/RootSystem/Base.lean
+Finset.apply_sup_le_sum,depth 2,1,2,4,Mathlib/Algebra/Order/BigOperators/Group/Finset.lean
+Multipliable.tprod_vanishing,depth 2,1,2,4,Mathlib/Topology/Algebra/InfiniteSum/Group.lean
+MeromorphicOn.negPart_divisor_add_le_add,depth 2,1,2,2,Mathlib/Analysis/Meromorphic/Divisor.lean
+Module.Finite.exists_free_surjective,depth 2,1,2,23,Mathlib/RingTheory/Finiteness/ModuleFinitePresentation.lean
+MvPolynomial.mem_degrees,depth 2,1,2,2,Mathlib/Algebra/MvPolynomial/Degrees.lean
+PeriodPair.coeff_weierstrassPExceptSeries,depth 2,1,2,19,Mathlib/Analysis/SpecialFunctions/Elliptic/Weierstrass.lean
+dimH_bUnion,depth 2,1,2,2,Mathlib/Topology/MetricSpace/HausdorffDimension.lean
+four_functions_theorem_univ,depth 2,1,2,2,Mathlib/Combinatorics/SetFamily/FourFunctions.lean
+ValueDistribution.proximity_congr_codiscreteWithin,depth 2,1,2,6,Mathlib/Analysis/Complex/ValueDistribution/Proximity/Basic.lean
+MeasurableSpace.measurableEquiv_nat_bool_of_countablyGenerated,depth 2,1,2,8,Mathlib/MeasureTheory/MeasurableSpace/CountablyGenerated.lean
+ProbabilityTheory.Kernel.withDensity_absolutelyContinuous,depth 2,1,2,5,Mathlib/Probability/Kernel/WithDensity.lean
+Commute.isNilpotent_finsum,depth 2,1,2,4,Mathlib/RingTheory/Nilpotent/Basic.lean
+ContinuousLinearMap.extend_eq,depth 2,1,2,2,Mathlib/Analysis/Normed/Operator/Extend.lean
+continuousWithinAt_iff_lower_upperSemicontinuousWithinAt,depth 2,1,2,23,Mathlib/Topology/Semicontinuity/Basic.lean
+Tactic.ComputeAsymptotics.Seq.Stream'.dist_le_one,depth 2,1,2,4,Mathlib/Tactic/ComputeAsymptotics/Multiseries/Corecursion.lean
+CategoryTheory.Functor.isSplitMono_iff,depth 2,1,2,5,Mathlib/CategoryTheory/Functor/EpiMono.lean
+CategoryTheory.epi_from_simple_zero_of_not_iso,depth 2,1,2,3,Mathlib/CategoryTheory/Simple.lean
+hammingDist_triangle,depth 2,1,2,5,Mathlib/InformationTheory/Hamming.lean
+Multiset.map_add_left_Ico,depth 2,1,2,2,Mathlib/Algebra/Order/Interval/Multiset.lean
+ContinuousLinearEquiv.tsum_eq_iff,depth 2,1,2,12,Mathlib/Topology/Algebra/InfiniteSum/Module.lean
+summable_iff_cauchySeq_finset_and_tsum_mem,depth 2,1,2,10,Mathlib/Topology/Algebra/InfiniteSum/GroupCompletion.lean
+ProbabilityTheory.mgf_anti_of_nonpos,depth 2,1,2,5,Mathlib/Probability/Moments/Basic.lean
+CategoryTheory.IsGrothendieckAbelian.exists_isIso_of_functor_from_monoOver,depth 2,1,2,16,Mathlib/CategoryTheory/Abelian/GrothendieckCategory/Subobject.lean
+Real.posLog_prod,depth 2,1,2,7,Mathlib/Analysis/SpecialFunctions/Log/PosLog.lean
+StieltjesFunction.outer_Ioc,depth 2,1,2,51,Mathlib/MeasureTheory/Measure/Stieltjes.lean
+mem_adjoin_of_smul_prime_smul_of_minpoly_isEisensteinAt,depth 2,1,2,66,Mathlib/RingTheory/Polynomial/Eisenstein/IsIntegral.lean
+ProbabilityTheory.cond_iInter,depth 2,1,2,33,Mathlib/Probability/Independence/Basic.lean
+RingOfIntegers.isUnit_norm_of_isGalois,depth 2,1,2,8,Mathlib/NumberTheory/NumberField/Norm.lean
+IntermediateField.AdjoinSimple.trace_gen_eq_sum_roots,depth 2,1,2,7,Mathlib/RingTheory/Trace/Basic.lean
+meromorphicNFAt_toMeromorphicNFAt,depth 2,1,2,24,Mathlib/Analysis/Meromorphic/NormalForm.lean
+Matrix.trace_surjective,depth 2,1,2,3,Mathlib/LinearAlgebra/Matrix/Trace.lean
+HasCompactSupport.exist_eLpNorm_sub_le_of_continuous,depth 2,1,2,20,Mathlib/Analysis/Normed/Lp/SmoothApprox.lean
+MeasureTheory.mulEquivHaarChar_trans,depth 2,1,2,8,Mathlib/MeasureTheory/Measure/Haar/MulEquivHaarChar.lean
+MeasureTheory.hittingAfter_empty,depth 2,1,2,2,Mathlib/Probability/Process/HittingTime.lean
+Finsupp.update_eq_single_add_erase,depth 2,1,2,4,Mathlib/Algebra/Group/Finsupp.lean
+Nat.eq_prime_pow_of_dvd_least_prime_pow,depth 5-6,1,6,3,Mathlib/Data/Nat/Prime/Basic.lean
+CategoryTheory.ShortComplex.Splitting.s_r,depth 5-6,1,5,2,Mathlib/Algebra/Homology/ShortComplex/Exact.lean
+RootPairing.range_polarizationIn_le_span_coroot,depth 5-6,1,6,4,Mathlib/LinearAlgebra/RootSystem/Finite/CanonicalBilinear.lean
+Finset.card_mul_cast_addConst,depth 5-6,1,6,2,Mathlib/Combinatorics/Additive/DoublingConst.lean
+tendsto_arithGeom_nhds_of_lt_one,depth 5-6,1,6,5,Mathlib/Analysis/SpecificLimits/ArithmeticGeometric.lean
+CochainComplex.HomComplex.Cochain.toSingleMk_postcomp,depth 5-6,1,6,2,Mathlib/Algebra/Homology/HomotopyCategory/HomComplexSingle.lean
+MDifferentiableWithinAt.comp_of_preimage_mem_nhdsWithin_of_eq,depth 5-6,1,5,2,Mathlib/Geometry/Manifold/MFDeriv/Basic.lean
+IsStronglyTranscendental.iff_of_isFractionRing,depth 5-6,1,5,2,Mathlib/RingTheory/Algebraic/StronglyTranscendental.lean
+Rep.resIndAdjunction_homEquiv_apply,depth 5-6,1,6,2,Mathlib/RepresentationTheory/FiniteIndex.lean
+continuousOn_extendFrom,depth 5-6,1,6,17,Mathlib/Topology/ExtendFrom.lean
+Module.eq_of_mapsTo_reflection_of_mem,depth 5-6,1,5,11,Mathlib/LinearAlgebra/Reflection.lean
+MeasureTheory.SimpleFunc.FinMeasSupp.add,depth 5-6,1,6,2,Mathlib/MeasureTheory/Function/SimpleFunc.lean
+UpperHalfPlane.denom_neg,depth 5-6,1,6,2,Mathlib/Analysis/Complex/UpperHalfPlane/MoebiusAction.lean
+Polynomial.sum_add_index,depth 5-6,1,6,2,Mathlib/Algebra/Polynomial/Basic.lean
+PowerBasis.degree_minpolyGen,depth 5-6,1,5,3,Mathlib/RingTheory/PowerBasis.lean
+Asymptotics.isEquivalent_const_iff_tendsto,depth 5-6,1,5,7,Mathlib/Analysis/Asymptotics/AsymptoticEquivalent.lean
+MeasureTheory.QuotientMeasureEqMeasurePreimage.mulInvariantMeasure_quotient,depth 5-6,1,5,6,Mathlib/MeasureTheory/Measure/Haar/Quotient.lean
+Ideal.finiteHeight_of_le,depth 5-6,1,6,2,Mathlib/RingTheory/Ideal/Height.lean
+Set.ncard_eq_two,depth 5-6,1,5,2,Mathlib/Data/Set/Card.lean
+AlgebraicGeometry.Scheme.zariskiTopology_le_etaleTopology,depth 5-6,1,6,3,Mathlib/AlgebraicGeometry/Sites/Etale.lean
+Subgroup.IsComplement.finite_left_iff,depth 5-6,1,6,2,Mathlib/GroupTheory/Complement.lean
+meromorphicNFAt_smul_iff_right_of_analyticAt,depth 5-6,1,5,7,Mathlib/Analysis/Meromorphic/NormalForm.lean
+Fermat42.ne_zero,depth 5-6,1,6,5,Mathlib/NumberTheory/FLT/Four.lean
+CategoryTheory.Pretriangulated.contractible_distinguished₂,depth 5-6,1,5,6,Mathlib/CategoryTheory/Triangulated/Pretriangulated.lean
+HurwitzZeta.hurwitzZetaOdd_eq,depth 5-6,1,5,2,Mathlib/NumberTheory/LSeries/HurwitzZeta.lean
+MonoidHom.exists_mrange_eq_mgraph,depth 5-6,1,5,8,Mathlib/Algebra/Group/Graph.lean
+Matrix.zpow_add_of_nonneg,depth 5-6,1,5,3,Mathlib/LinearAlgebra/Matrix/ZPow.lean
+MeasureTheory.limsup_measure_compl_le_of_le_liminf_measure,depth 5-6,1,5,11,Mathlib/MeasureTheory/Measure/Portmanteau.lean
+Module.Basis.linearCombination_dualBasis,depth 5-6,1,5,5,Mathlib/LinearAlgebra/Dual/Basis.lean
+CochainComplex.isLE_iff,depth 5-6,1,6,7,Mathlib/Algebra/Homology/Embedding/CochainComplex.lean
+MeasurableSet.union,depth 5-6,1,5,2,Mathlib/MeasureTheory/MeasurableSpace/Defs.lean
+HasFDerivAt.mul_const,depth 5-6,1,6,3,Mathlib/Analysis/Calculus/FDeriv/Mul.lean
+Nat.totient_super_multiplicative,depth 5-6,1,5,6,Mathlib/Data/Nat/Totient.lean
+SkewMonoidAlgebra.support_mul_single_eq_image,depth 5-6,1,5,4,Mathlib/Algebra/SkewMonoidAlgebra/Support.lean
+Finset.prod_ite_mem_eq,depth 5-6,1,5,3,Mathlib/Algebra/BigOperators/Group/Finset/Basic.lean
+Order.coheight_bot_eq_krullDim,depth 5-6,1,5,2,Mathlib/Order/KrullDimension.lean
+CategoryTheory.projective_of_preservesFiniteColimits_preadditiveCoyonedaObj,depth 5-6,1,6,3,Mathlib/CategoryTheory/Abelian/Projective/Basic.lean
+WeierstrassCurve.Jacobian.nonsingular_of_equiv,depth 5-6,1,5,2,Mathlib/AlgebraicGeometry/EllipticCurve/Jacobian/Basic.lean
+Ideal.jacobson_eq_iff_jacobson_quotient_eq_bot,depth 5-6,1,5,10,Mathlib/RingTheory/Jacobson/Ideal.lean
+Matrix.updateRow_mulVec,depth 5-6,1,6,4,Mathlib/LinearAlgebra/Matrix/RowCol.lean
+Representation.isSemisimpleModule_iff_isSemisimpleRepresentation_ofModule,depth 5-6,1,6,2,Mathlib/RepresentationTheory/Semisimple.lean
+JacobsonSpace.of_isClosedEmbedding,depth 5-6,1,6,4,Mathlib/Topology/JacobsonSpace.lean
+Array.scanrM_extract,depth 5-6,1,6,5,.lake/packages/batteries/Batteries/Data/Array/Scan.lean
+MeasureTheory.lintegral_eapprox_le_lintegral,depth 5-6,1,5,2,Mathlib/MeasureTheory/Integral/Lebesgue/Add.lean
+MeasureTheory.OuterMeasure.f_iUnion,depth 5-6,1,5,7,Mathlib/MeasureTheory/OuterMeasure/Caratheodory.lean
+DifferentiableOn.iUnion_of_isOpen,depth 5-6,1,6,2,Mathlib/Analysis/Calculus/FDeriv/Basic.lean
+AddCircle.coe_eq_zero_of_pos_iff,depth 5-6,1,5,9,Mathlib/Topology/Instances/AddCircle/Defs.lean
+FormalMultilinearSeries.rightInv_removeZero,depth 5-6,1,5,9,Mathlib/Analysis/Analytic/Inverse.lean
+Tactic.ComputeAsymptotics.WellFormedBasis.compare_left_aux,depth 5-6,1,5,9,Mathlib/Tactic/ComputeAsymptotics/Multiseries/Basis.lean
+Filter.Tendsto.div_atBot,depth 5-6,1,6,2,Mathlib/Topology/Algebra/Order/Field.lean
+Submodule.finrank_add_le_finrank_add_finrank,depth 5-6,1,5,2,Mathlib/LinearAlgebra/FiniteDimensional/Lemmas.lean
+WeierstrassCurve.Projective.map_dblX,constructive,0,,2,Mathlib/AlgebraicGeometry/EllipticCurve/Projective/Formula.lean
+HomologicalComplex.XIsoOfEq_hom_comp_XIsoOfEq_hom,constructive,0,,2,Mathlib/Algebra/Homology/HomologicalComplex.lean
+NonarchimedeanGroup.nonarchimedean_of_emb,constructive,0,,2,Mathlib/Topology/Algebra/Nonarchimedean/Basic.lean
+groupCohomology.d₀₁_comp_d₁₂,constructive,0,,2,Mathlib/RepresentationTheory/Homological/GroupCohomology/LowDegree.lean
+Setoid.classes_eqv_classes,constructive,0,,3,Mathlib/Data/Setoid/Partition.lean
+dvd_and_not_dvd_iff,constructive,0,,3,Mathlib/Algebra/GroupWithZero/Divisibility.lean
+Subgroup.mem_closure_singleton,constructive,0,,9,Mathlib/Algebra/Group/Subgroup/Lattice.lean
+ChainCompletePartialOrder.bot_isAdmissible,constructive,0,,8,Mathlib/Order/BourbakiWitt.lean
+SModEq.eval,constructive,0,,2,Mathlib/LinearAlgebra/SModEq/Basic.lean
+FiniteMultiplicity.not_iff_forall,constructive,0,,5,Mathlib/RingTheory/Multiplicity.lean
+Finset.filter_gt_eq_Iio,constructive,0,,2,Mathlib/Order/Interval/Finset/Basic.lean
+IsRightRegular.of_mul,constructive,0,,2,Mathlib/Algebra/Regular/Basic.lean
+SymmetricAlgebra.algHom_ext,constructive,0,,2,Mathlib/LinearAlgebra/SymmetricAlgebra/Basic.lean
+Set.Ioc_eq_Ioc_iff,constructive,0,,7,Mathlib/Order/Interval/Set/LinearOrder.lean
+Finset.image₂_image₂_image₂_comm,constructive,0,,2,Mathlib/Data/Finset/NAry.lean
+Set.Ico_eq_Ico_iff,constructive,0,,7,Mathlib/Order/Interval/Set/LinearOrder.lean
+RegularWreathProduct.rightHom_comp_inl_eq_id,constructive,0,,2,Mathlib/GroupTheory/RegularWreathProduct.lean
+Finset.univ_filter_exists,constructive,0,,2,Mathlib/Data/Finset/BooleanAlgebra.lean
+List.Vector.mapAccumr₂_eq_map₂,constructive,0,,4,Mathlib/Data/Vector/MapLemmas.lean
+Nat.decreasingInduction_self,constructive,0,,2,Mathlib/Data/Nat/Init.lean
+Filter.exists_mem_and_iff,constructive,0,,5,Mathlib/Order/Filter/Basic.lean
+Monotone.le_map_sSup,constructive,0,,2,Mathlib/Order/CompleteLattice/Basic.lean
+SimpleGraph.TripartiteFromTriangles.Graph.in₀₂_iff,constructive,0,,2,Mathlib/Combinatorics/SimpleGraph/Triangle/Tripartite.lean
+List.prod_min_le,constructive,0,,4,Mathlib/Algebra/Order/BigOperators/Group/List.lean
+Function.iterate_add_apply,constructive,0,,2,Mathlib/Logic/Function/Iterate.lean
+Set.iUnion_finset_eq_set,constructive,0,,4,Mathlib/Order/CompleteLattice/Finset.lean
+Unitization.starMap_comp,constructive,0,,3,Mathlib/Algebra/Algebra/Unitization.lean
+ExteriorAlgebra.ι_range_disjoint_one,constructive,0,,5,Mathlib/LinearAlgebra/ExteriorAlgebra/Basic.lean
+ContinuousAlternatingMap.hasBasis_nhds_zero_of_basis,constructive,0,,2,Mathlib/Topology/Algebra/Module/Alternating/Topology.lean
+IsSMulRegular.linearMap_subsingleton_of_mem_annihilator,constructive,0,,4,Mathlib/RingTheory/Regular/Depth.lean
+DFinsupp.mk_smul,constructive,0,,2,Mathlib/Data/DFinsupp/Module.lean
+SSet.horn_eq_iSup,constructive,0,,3,Mathlib/AlgebraicTopology/SimplicialSet/Horn.lean
+DFinsupp.erase_add_single,constructive,0,,3,Mathlib/Data/DFinsupp/Defs.lean
+IsIdempotentElem.add_iff,constructive,0,,3,Mathlib/Algebra/Ring/Idempotent.lean
+UV.compress_idem,constructive,0,,5,Mathlib/Combinatorics/SetFamily/Compression/UV.lean
+Filter.HasBasis.equicontinuousAt_iff_right,constructive,0,,2,Mathlib/Topology/UniformSpace/Equicontinuity.lean
+CategoryTheory.ShortComplex.RightHomologyData.ι_descQ_eq_zero_of_boundary,constructive,0,,5,Mathlib/Algebra/Homology/ShortComplex/RightHomology.lean
+IsLocalHomeomorphOn.mk,constructive,0,,9,Mathlib/Topology/IsLocalHomeomorph.lean
+Fin.image_natAdd_Ioc,constructive,0,,2,Mathlib/Order/Interval/Set/Fin.lean
+List.splitOn_intercalate,constructive,0,,15,Mathlib/Data/List/SplitOn.lean
+Stream'.WSeq.tail_ofSeq,constructive,0,,3,Mathlib/Data/WSeq/Basic.lean
+Ideal.comap_ne_top,constructive,0,,2,Mathlib/RingTheory/Ideal/Maps.lean
+isExposed_empty,constructive,0,,2,Mathlib/Analysis/Convex/Exposed.lean
+Stream'.WSeq.destruct_dropn,constructive,0,,2,Mathlib/Data/WSeq/Basic.lean
+Mathlib.Tactic.Bicategory.naturality_inv,constructive,0,,3,Mathlib/Tactic/CategoryTheory/Bicategory/PureCoherence.lean
+toArithmeticFunction_congr,constructive,0,,2,Mathlib/NumberTheory/LSeries/Convolution.lean
+Filter.map_mul_left_nhdsNE,constructive,0,,2,Mathlib/Topology/Algebra/Group/Basic.lean
+OpenPartialHomeomorph.map_extend_nhdsWithin_eq_image_of_subset,constructive,0,,2,Mathlib/Geometry/Manifold/IsManifold/ExtChartAt.lean
+groupCohomology.d₀₁_ker_eq_invariants,constructive,0,,3,Mathlib/RepresentationTheory/Homological/GroupCohomology/LowDegree.lean
+NormedSpace.expSeries_apply_zero,constructive,0,,4,Mathlib/Analysis/Normed/Algebra/Exponential.lean
+SSet.Truncated.liftOfStrictSegal.hσ'₁,depth 7+,1,7,10,Mathlib/AlgebraicTopology/SimplicialSet/NerveAdjunction.lean
+isProperMap_of_comp_of_t2,depth 7+,1,9,5,Mathlib/Topology/Maps/Proper/Basic.lean
+Matrix.TransvectionStruct.toMatrix_reindexEquiv_prod,depth 7+,1,8,4,Mathlib/LinearAlgebra/Matrix/Transvection.lean
+PresheafOfModules.surjective_of_epi,depth 7+,1,8,2,Mathlib/Algebra/Category/ModuleCat/Presheaf/EpiMono.lean
+CategoryTheory.MorphismProperty.isStableUnderBaseChange_iff_pullbacks_le,depth 7+,1,8,7,Mathlib/CategoryTheory/MorphismProperty/Limits.lean
+mul_nonneg_of_three,depth 7+,1,8,6,Mathlib/Algebra/Order/Ring/Unbundled/Basic.lean
+adjoin_le_integralClosure,depth 7+,1,7,3,Mathlib/RingTheory/IntegralClosure/IsIntegralClosure/Basic.lean
+ADEInequality.admissible_of_one_lt_sumInv,depth 7+,1,8,8,Mathlib/NumberTheory/ADEInequality.lean
+sub_one_dvd_pow_sub_one,depth 7+,1,11,2,Mathlib/Algebra/Ring/GeomSum.lean
+AlgebraicGeometry.Proj.isBasis_basicOpen,depth 7+,1,11,3,Mathlib/AlgebraicGeometry/ProjectiveSpectrum/Basic.lean
+IsAdjoinRoot.ext_map,depth 7+,1,7,4,Mathlib/RingTheory/IsAdjoinRoot.lean
+InnerProductSpace.Core.inner_sub_sub_self,depth 7+,1,7,2,Mathlib/Analysis/InnerProductSpace/Defs.lean
+inv_lt_inv_of_neg,depth 7+,1,8,2,Mathlib/Algebra/Order/Field/Basic.lean
+WithZeroTopology.hasBasis_nhds_zero,depth 7+,1,8,3,Mathlib/Topology/Algebra/WithZeroTopology.lean
+Order.pred_succ_iterate_of_not_isMax,depth 7+,1,8,15,Mathlib/Order/SuccPred/Basic.lean
+AffineSubspace.setOf_sSameSide_eq_image2,depth 7+,1,7,13,Mathlib/Analysis/Convex/Side.lean
+RootPairing.rootForm_reflection_reflection_apply,depth 7+,1,7,2,Mathlib/LinearAlgebra/RootSystem/Finite/CanonicalBilinear.lean
+Polynomial.Chebyshev.add_one_mul_self_mul_T_eq_poly_in_T,depth 7+,1,7,5,Mathlib/RingTheory/Polynomial/Chebyshev.lean
+IsLocalization.map_algebraMap_ne_top_iff_disjoint,depth 7+,1,8,2,Mathlib/RingTheory/Localization/Ideal.lean
+WeierstrassCurve.Affine.Y_sub_polynomialY,depth 7+,1,7,3,Mathlib/AlgebraicGeometry/EllipticCurve/Affine/Formula.lean
+contDiff_infty_iff_deriv,depth 7+,1,9,2,Mathlib/Analysis/Calculus/ContDiff/Deriv.lean
+tendsto_of_le_liminf_of_limsup_le,depth 7+,1,7,3,Mathlib/Topology/Order/LiminfLimsup.lean
+MeasureTheory.ae_eq_of_ae_subset_of_measure_ge,depth 7+,1,7,4,Mathlib/MeasureTheory/Measure/MeasureSpace.lean
+Nat.geom_sum_le,depth 7+,1,7,6,Mathlib/Algebra/Order/Ring/GeomSum.lean
+Asymptotics.superpolynomialDecay_iff_zpow_tendsto_zero,depth 7+,1,7,10,Mathlib/Analysis/Asymptotics/SuperpolynomialDecay.lean
+ProbabilityTheory.Kernel.restrict_univ,depth 7+,1,9,2,Mathlib/Probability/Kernel/Basic.lean
+Function.FactorizedRational.mulSupport,depth 7+,1,8,8,Mathlib/Analysis/Meromorphic/FactorizedRational.lean
+contDiffWithinAt_iff_contDiffOn_nhds,depth 7+,1,7,7,Mathlib/Analysis/Calculus/ContDiff/Defs.lean
+CliffordAlgebra.contractLeft_comm,depth 7+,1,9,5,Mathlib/LinearAlgebra/CliffordAlgebra/Contraction.lean
+IsNilpotent.isUnit_one_sub,depth 7+,1,10,2,Mathlib/RingTheory/Nilpotent/Basic.lean
+MeasureTheory.OuterMeasure.boundedBy_zero,depth 7+,1,8,2,Mathlib/MeasureTheory/OuterMeasure/OfFunction.lean
+LipschitzWith.dist_iterate_succ_le_geometric,depth 7+,1,7,2,Mathlib/Topology/MetricSpace/Lipschitz.lean
+enorm'_le_iff_norm_le,depth 7+,1,7,5,Mathlib/Analysis/Normed/Group/Basic.lean
+Finset.prod_erase_lt_of_one_lt,depth 7+,1,7,3,Mathlib/Algebra/BigOperators/Group/Finset/Basic.lean
+GenContFract.IntFractPair.coe_stream_nth_rat_eq,depth 7+,1,7,12,Mathlib/Algebra/ContinuedFractions/Computation/TerminatesIffRat.lean
+Matrix.det_updateCol_sum,depth 7+,1,7,3,Mathlib/LinearAlgebra/Matrix/Determinant/Basic.lean
+Finset.exists_lt_card_fiber_of_nsmul_lt_card_of_maps_to,depth 7+,1,7,2,Mathlib/Combinatorics/Pigeonhole.lean
+left_mem_openSegment_iff,depth 7+,1,8,7,Mathlib/Analysis/Convex/Segment.lean
+Matrix.det_updateRow_sum,depth 7+,1,7,2,Mathlib/LinearAlgebra/Matrix/Determinant/Basic.lean
+NNReal.agmSequences_comm,depth 7+,1,8,4,Mathlib/Analysis/SpecialFunctions/ArithmeticGeometricMean.lean
+ArithmeticFunction.sum_eq_iff_sum_mul_moebius_eq_on,depth 7+,1,7,6,Mathlib/NumberTheory/ArithmeticFunction/Moebius.lean
+CategoryTheory.Center.leftUnitor_inv_f,depth 7+,1,7,3,Mathlib/CategoryTheory/Monoidal/Center.lean
+RatFunc.liftRingHom_ofFractionRing_algebraMap,depth 7+,1,8,2,Mathlib/FieldTheory/RatFunc/Basic.lean
+collinear_insert_insert_insert_left_of_mem_affineSpan_pair,depth 7+,1,7,3,Mathlib/LinearAlgebra/AffineSpace/FiniteDimensional.lean
+MeasureTheory.SimpleFunc.bind_const,depth 7+,1,7,2,Mathlib/MeasureTheory/Function/SimpleFunc.lean
+dist_triangle4_right,depth 7+,1,8,2,Mathlib/Topology/MetricSpace/Pseudo/Defs.lean
+MeasureTheory.trim_trim,depth 7+,1,8,2,Mathlib/MeasureTheory/Measure/Trim.lean
+t1Space_TFAE,depth 7+,1,7,23,Mathlib/Topology/Separation/Basic.lean
