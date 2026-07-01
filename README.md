@@ -3,17 +3,20 @@
 Research code for the paper *"Geometric Measurements of the Axiom of Choice in
 Neural Proof Embeddings."*
 
-**Claim.** Lean 4's kernel-level tracking of `Classical.choice` dependence has a
-measurable *geometric* correlate in proof space. We partition all 471,260
-Mathlib declarations by transitive dependence on the axiom of choice, train a
-label-free denoising encoder on the *constructive* proofs only, and show that
-three independent measurements — a k-NN anomaly score, the encoder's own
-masked-token reconstruction loss, and density-superlevel containment — each
-decay monotonically with a proof's dependency-graph distance from the axiom
-(sharp at depth 2, AUC 0.847; chance by depth 9+). The signature survives
-keyword, length, file, detector, full-source, and axis controls, and it has
-operational consequences: `aesop` solves constructive theorems at ~13× the rate
-of classical ones, a gap a ReProver–`aesop` hybrid compresses but does not close.
+We partition all 471,260 Mathlib declarations by transitive dependence
+on the axiom of choice and analyse tactic traces for 42,355 filtered
+theorems. A label-free denoising encoder trained on constructive proofs
+yields three complementary measurements—a k-NN anomaly score,
+masked-token reconstruction loss, and density-superlevel
+containment—that exhibit a common decline with dependency-graph
+distance (AUC 0.847 at depth 2; chance by depth 9+). Estimating the
+mixture weight from AUC alone predicts reconstruction loss and
+containment across the non-anchor depth buckets.
+
+The signature survives keyword, length, file, author, topic, detector,
+full-source, and axis controls. Operationally, aesop solves constructive
+theorems at roughly 13× the rate of classical ones, while a
+ReProver–aesop hybrid compresses but does not close the gap.
 
 Everything here is data-pipeline code: experiments, figures, and the numbers
 behind the tables. There is no application.
